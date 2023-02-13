@@ -27,7 +27,7 @@
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center" href="{{ url('/') }}">
                     <div class="logo_laravel">
-                        Paolo Lo Re
+                        me dead
                     </div>
                     {{-- config('app.name', 'Laravel') --}}
                 </a>
